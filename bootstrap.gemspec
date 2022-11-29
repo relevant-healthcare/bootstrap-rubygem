@@ -4,7 +4,7 @@ require 'bootstrap/version'
 
 Gem::Specification.new do |s|
   s.name     = 'bootstrap'
-  s.version  = Bootstrap::VERSION
+  s.version  = Bootstrap4::VERSION
   s.authors  = ['Twitter, Inc.']
   s.email    = 'glex.spb@gmail.com'
   s.summary  = 'The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com'
